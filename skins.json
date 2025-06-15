@@ -1,0 +1,612 @@
+[
+  {
+    "id": 1,
+    "name": "Нож | Коготь | Мраморный градиент",
+    "price": 1000.00,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-Kmsj5MqnTmm5u7sR1j9bW_Ij6n2u4ohQ0J3fycYKVelU7YA2C-Vbvw7vr1MW17p_KyXdi6XR05n2OmUHihR9Ka7Zpm7XAHhcAmaWL/360fx360f",
+    "rarity": "Covert",
+    "type": "knife",
+    "float": 0.00,
+    "stattrak": false
+  },
+  {
+    "id": 2,
+    "name": "USP-S | Орион",
+    "price": 35.50,
+    "image": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jnI7LFkGJD7fp9g-7J4cL23lexqhI9ZT3wd4WTJ1VvZ1rZr1G2wu2805W46p6amnJj6SEmt3_YgVXp1sALRvj2/360fx360f",
+    "rarity": "Classified",
+    "type": "usp-s",
+    "float": 0.02,
+    "stattrak": false
+  },
+  {
+    "id": 3,
+    "name": "USP-S | Зубоскал",
+    "price": 8.90,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08mlhJO0k_jzNKLummJW4NE_iLGVpN-n3Qfs-RFtY2DzIo-TIFM8Ml7Zqwfow7js08W-vprAn3I16T5iuygX9mc8ew/360fx360f",
+    "rarity": "Restricted",
+    "type": "usp-s",
+    "float": 0.25,
+    "stattrak": true
+  },
+  {
+    "id": 4,
+    "name": "P2000 | Вычитание",
+    "price": 18.40,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJM-dG0kZKYqOXxN4TTmn5U18l4jeHVu43z3Qa1-xVoNm3xd4GRc1A-MA7Zq1C3w7i91sC9u8-cnCNjsiMjt3vD30vgPBwj8Xk/360fx360f",
+    "rarity": "Classified",
+    "type": "p2000",
+    "float": 0.07,
+    "stattrak": false
+  },
+  {
+    "id": 5,
+    "name": "P2000 | Сорвиголова",
+    "price": 6.75,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJSvozmxL-PkvT4OrXUqWdY781lxLjFo96g2QHj-xc-Z276J9SXdVQ2N1uDrwC2xOzsgZK0vZ_IyCNl7ik8pSGKaGOzagY/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "p2000",
+    "float": 0.19,
+    "stattrak": false
+  },
+  {
+    "id": 6,
+    "name": "R8 Revolver | Янтарный градиент",
+    "price": 22.60,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3cDx96t2ykb-GkuP1P7fYlVRD7dN-hv_E57P5gVO8v11oam_2cNSdJA45M1zU8wC8w7q6gpK_upuYy3IxvyFx4CzVlxG-iBhLcKUx0kUZJOII/360fx360f",
+    "rarity": "Restricted",
+    "type": "r8",
+    "float": 0.12,
+    "stattrak": true
+  },
+  {
+    "id": 7,
+    "name": "R8 Revolver | Градиент",
+    "price": 14.20,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3cDx96t2ykb-ZkuH7P63UhFRd4cJ5nqeR9Irx0Ay3-UtoYzygI9KdIAI8NwnW_le3ybrq0MK-6ZydzXdjvHVz-z-DyKC_GM23/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "r8",
+    "float": 0.28,
+    "stattrak": false
+  },
+  {
+    "id": 8,
+    "name": "CZ75-Auto | Ксенос",
+    "price": 25.80,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf1OD3cid9_9K3n4WYqOfhIavdk1Rd4cJ5nqeYrNWgilHhrRdqamH7d4GSI1JtYF7XqAK7wui818e5v8ubmyAx6HJz-z-DyJ-ZIdTg/360fx360f",
+    "rarity": "Classified",
+    "type": "cz75",
+    "float": 0.04,
+    "stattrak": false
+  },
+  {
+    "id": 9,
+    "name": "CZ75-Auto | Изумрудный",
+    "price": 10.50,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v33dDBH_t26kL-HnvD8J_WDkzNUsZ0k37nApo-g3gPsqUBsa2n7cYKRdg8_N1GF-lfsxum618W6ot2Xnn5j1JpH/360fx360f",
+    "rarity": "Restricted",
+    "type": "cz75",
+    "float": 0.21,
+    "stattrak": true
+  },
+  {
+    "id": 10,
+    "name": "Dual Berettas | Пантера",
+    "price": 15.90,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3YTxM-NSzhr-GkvP9Jrafw2lQupIl2L-Z8NjwigPs_UBpYmuiINDGelI5Mw3QqAC6xrrv1JC8voOJlyUZT5BJNA/360fx360f",
+    "rarity": "Classified",
+    "type": "dual",
+    "float": 0.09,
+    "stattrak": false
+  },
+  {
+    "id": 11,
+    "name": "Dual Berettas | Розовый перламутр",
+    "price": 7.25,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPzHTi9N_9mJk4-Hk8j4OrzZgiUD6sYl0rzDo96n2wbg_kRtN2j2I9eWegQ5M1-BrAe4lOm90JO1tM_K1zI97VsDazAT/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "dual",
+    "float": 0.31,
+    "stattrak": false
+  },
+  {
+    "id": 12,
+    "name": "P250 | Пятно",
+    "price": 28.70,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zbYTFD_9SJhNLex8j4OrzZgiUIsJZyj7GXo9qm2gbjqBI5ajvyItORdVJqMF3WqwPqlbu-hpa0tZzL1zI97f96YcIY/360fx360f",
+    "rarity": "Covert",
+    "type": "p250",
+    "float": 0.01,
+    "stattrak": false
+  },
+  {
+    "id": 13,
+    "name": "P250 | Металлический",
+    "price": 5.40,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhh3szdYz9D4uO6nYeDg7n1N7iFzm5S6ZxyjuqVoImtiwTh-EBkZW71JtCScgc_MFDX_wO6ye7pm9bi6-hOxTXs/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "p250",
+    "float": 0.24,
+    "stattrak": true
+  },
+  {
+    "id": 14,
+    "name": "Five-Seven | Разъярённая толпа",
+    "price": 19.80,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goW0hPLiNrXul2VW-txOh-zF_Jn4xgeyrUM-ZTj1LNSdcwM6YVmG8ge7kuvvgpO97szLyiZqsyh05XqOyhapwUYb8iGsToQ/360fx360f",
+    "rarity": "Restricted",
+    "type": "five-seven",
+    "float": 0.06,
+    "stattrak": false
+  },
+  {
+    "id": 15,
+    "name": "Five-Seven | Поверхностная закалка",
+    "price": 9.10,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjxT09O_mIWPqPrxN7LEmyVVusYg3ryY99vz2gLt_hJpYTqhdtWSIAU6Z1-C_1K6xe28hZK8uZzB1zI97ez2OaTh/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "five-seven",
+    "float": 0.17,
+    "stattrak": false
+  },
+  {
+    "id": 16,
+    "name": "Desert Eagle | Наследие",
+    "price": 18.20,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjhM6863goWPqPPxMrzdk1Rd4cJ5nqeRrNqt0Qzk8hY5NTrzcNCWIFRvaF7QrALtxO_tgZa96s7Bn3VisyUi-z-DyJziBZ6m/360fx360f",
+    "rarity": "Classified",
+    "type": "deagle",
+    "float": 0.22,
+    "stattrak": true
+  },
+  {
+    "id": 17,
+    "name": "Desert Eagle | Шелковица",
+    "price": 42.90,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7ODHdAJS4Mm7q4yCkP_gfenSzzxXsJcjiOjHrdSlige2r0o-MTynJoaddQQ5aAvU_QW4yO_o08ei_MOe6928QZw/360fx360f",
+    "rarity": "Covert",
+    "type": "deagle",
+    "float": 0.03,
+    "stattrak": false
+  },
+  {
+    "id": 18,
+    "name": "Desert Eagle | Кровавая паутина",
+    "price": 31.50,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PvRTipH7s-JkIGZnPLmDLfYkWNFppApjL-Rodym3QaxqRFsYzvzJ4acdAFrZVyGrwK9lLjmgMK-vZ_AwCd9-n51Ff2g-Bw/360fx360f",
+    "rarity": "Restricted",
+    "type": "deagle",
+    "float": 0.11,
+    "stattrak": true
+  },
+  {
+    "id": 19,
+    "name": "Nova | Графит",
+    "price": 8.50,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhh3szLYyhP_NCzq4yCkP_gfb7QxmlQvJci3uzFodnxiwDi-EtlYjjxIdLBcwM7Z1nR_FbswLu7gJSi_MOe50rfWHI/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "nova",
+    "float": 0.26,
+    "stattrak": false
+  },
+  {
+    "id": 20,
+    "name": "Nova | Узел",
+    "price": 12.30,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszedC9W5du5nYyHguT9PLXuj25d5MpmteXI8oThxgDs_xJkMm6lcIeVJlU4Yw2C_wK8lLzohJW1tZjJzCZhsyV243nZmB2pwUYbggvnkZ8/360fx360f",
+    "rarity": "Restricted",
+    "type": "nova",
+    "float": 0.14,
+    "stattrak": true
+  },
+  {
+    "id": 21,
+    "name": "MP7 | Заклятый враг",
+    "price": 15.80,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJM6dGlnZO0m_7zO6-fxDtT7sFy0rzDpoii0QTm-xc6MGr0d4KRcwA_Yw3V81Dvxuvq1MW6uIOJlyX9o6L_3g/360fx360f",
+    "rarity": "Classified",
+    "type": "mp7",
+    "float": 0.08,
+    "stattrak": false
+  },
+  {
+    "id": 22,
+    "name": "MP7 | Неоновая фанера",
+    "price": 9.20,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJQ6cy6nYOKqPv9NLPF2D1V65x0iOiS8Iqm21HtrRVtMWr0INPAdVM-Y1rQ_AW8ybu8gJTp75rXiSw04SDUu8Y/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "mp7",
+    "float": 0.29,
+    "stattrak": true
+  },
+  {
+    "id": 23,
+    "name": "Negev | Погрузчик",
+    "price": 14.60,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJnY2blvTgDLfYkWNFpsQj2LjD99_z3QXtrUo4NjzyJtLEcFA5ZVmE-wS4wunr05-66Z3PmyF9-n51-Xojlrk/360fx360f",
+    "rarity": "Restricted",
+    "type": "negev",
+    "float": 0.16,
+    "stattrak": true
+  },
+  {
+    "id": 24,
+    "name": "Negev | Пальма",
+    "price": 7.90,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFfwOP3YTxO4eO0hoGdmMj4OrzZgiUJu8Eh3L-XoI_3jQfkr0tlYTymLdCRJFA7Mw7Z_QK6wL-8gsDu6cjI1zI97eAMNzx1/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "negev",
+    "float": 0.33,
+    "stattrak": false
+  },
+  {
+    "id": 25,
+    "name": "MAG-7 | Бульдозер",
+    "price": 11.40,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzRdDFO48uJmYWPnuL5fbmIzzxS7pMkjujAodrx2FXt-hJuMmj2INKXdw4_Mw3VrFDvyeftjcWi_MOe7YhbTkc/360fx360f",
+    "rarity": "Classified",
+    "type": "mag7",
+    "float": 0.05,
+    "stattrak": true
+  },
+  {
+    "id": 26,
+    "name": "MAG-7 | Стальной",
+    "price": 6.80,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szFcDoV09-3gZOfnvTLPr7Vn35cppcmjruQ9tii0ATi_hduMm30dYGdcg8_M13VqVbvkL-8g8fqtcjNyXp9-n51C4bJM50/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "mag7",
+    "float": 0.27,
+    "stattrak": false
+  },
+  {
+    "id": 27,
+    "name": "PP-Bizon | Азарт",
+    "price": 13.70,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0Ob3czRY49KJlYyHqP76DLfYkWNFpsAg2OiVrNjz0VDi-0FkYmihJ4adJgM3NF_S-FS4ku7th8e9787LyCB9-n51nmN_vIY/360fx360f",
+    "rarity": "Restricted",
+    "type": "bizon",
+    "float": 0.13,
+    "stattrak": false
+  },
+  {
+    "id": 28,
+    "name": "PP-Bizon | Камуфляж",
+    "price": 5.60,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3ZjJN6OOxhoGCmcj3MrbeqXlU7Pp8j-3I4IG7iVDh-xI4ZG-gLdLAdgY4NFDZrgO8wOy70Je66JifwSNn6HYjsH_algv330_FrZXUrg/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "bizon",
+    "float": 0.35,
+    "stattrak": true
+  },
+  {
+    "id": 29,
+    "name": "UMP-45 | Пламя",
+    "price": 16.90,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0vL3dzFD4dmlq4yCkP_gfbmIkG5V7pEmj7jDp9ikjgOx_URkZWD3dYWQdABoNQqE-1fow-3q1sKi_MOeDCV--_I/360fx360f",
+    "rarity": "Classified",
+    "type": "ump",
+    "float": 0.07,
+    "stattrak": false
+  },
+  {
+    "id": 30,
+    "name": "UMP-45 | Багровая фольга",
+    "price": 8.40,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf1ODLeQJR_NOkgL-emuegZoTdn2xZ_Isp2-yToomi2gDiqEpvZ2DxIYSQc1BoNVnXq1a9weno05-_7ciYwCFgpGB8skyv0A8F/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "ump",
+    "float": 0.23,
+    "stattrak": false
+  },
+  {
+    "id": 31,
+    "name": "M249 | Мраморный буран",
+    "price": 10.80,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhoyszKfTRY9t2kkL-GkvP9JraflzsC7JEoib6UpoiiiQexqRFkam77JNOSIwA6Zl7Q_wS7ybvqhsC_74OJlyU19Owtug/360fx360f",
+    "rarity": "Restricted",
+    "type": "m249",
+    "float": 0.18,
+    "stattrak": true
+  },
+  {
+    "id": 32,
+    "name": "M249 | Джунгли",
+    "price": 7.20,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhz3MzCZDNF4NmJmImMn-O6Mr6Cx28Bu8ciiezCp4qsilfkrhdqZmj3LIDAe1U_M17U_QK3wOjmhoj84sqYnWh5cA/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "m249",
+    "float": 0.30,
+    "stattrak": false
+  },
+  {
+    "id": 33,
+    "name": "XM1014 | Райский страж",
+    "price": 9.50,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTiVPvYznwL-DkvbiNrXukX5Q-sFOhuDG_Zi7igXtqRJtNjr6dtXAIA4-YV7Q81C5xO3u1sC7vc7BmnFq6SZzt3eMyQv3309dQqO_5g/360fx360f",
+    "rarity": "Classified",
+    "type": "xm1014",
+    "float": 0.10,
+    "stattrak": false
+  },
+  {
+    "id": 34,
+    "name": "XM1014 | Плавящиеся монстры",
+    "price": 14.20,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTjJU6c6mlZOYqPr7PajFk3lC1918teXI8oThxlDl_xdlY26ndYeWewc9Nw3S_ge4xe7s18S-v8ycwSdksnQrtnnen0CpwUYbqZRNDiA/360fx360f",
+    "rarity": "Restricted",
+    "type": "xm1014",
+    "float": 0.15,
+    "stattrak": true
+  },
+  {
+    "id": 35,
+    "name": "M4A4 | Кибербезопасность",
+    "price": 22.50,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09-vloWZh-L6OITck29Y_cg_0r_HrY2m2ATmqhBlYT-nd9TDdFNoZQvWrla2xL29gMDpuM6cnHQ2vj5iuyhtZhH0GA/360fx360f",
+    "rarity": "Covert",
+    "type": "m4a4",
+    "float": 0.02,
+    "stattrak": false
+  },
+  {
+    "id": 36,
+    "name": "MP5-SD | Фосфор",
+    "price": 17.80,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09qzh5SCgfb4DL_Dn3tu5Mx2gv2Podul3gG1_BdsY2uncIXDegZsNwvT-QO-kOzo15C77cydwCFguyVwsWGdwUL7kuc9YQ/360fx360f",
+    "rarity": "Classified",
+    "type": "mp5",
+    "float": 0.09,
+    "stattrak": true
+  },
+  {
+    "id": 37,
+    "name": "P90 | Кожа",
+    "price": 11.30,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PHafipM09CzlZSDkuXLI-KBqWdY781lxL3D94_wjgXi-0Q4Nm6lJNLDIARqYAzWqVK_kubs15-06p_JnHYwvSI8pSGK12D7Ycc/360fx360f",
+    "rarity": "Restricted",
+    "type": "p90",
+    "float": 0.20,
+    "stattrak": false
+  },
+  {
+    "id": 38,
+    "name": "P90 | Изумрудный дракон",
+    "price": 580.60,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17PfacDpN4uOmzdC0leX1JbTummJW4NE_i7iRpduj2wew_hY9ZjynIYKUdlM2YFDQ81i6xum6h8e56siYwXBkvD5iuyhTK47r4A/360fx360f",
+    "rarity": "Classified",
+    "type": "p90",
+    "float": 0.06,
+    "stattrak": true
+  },
+  {
+    "id": 39,
+    "name": "MP9 | Закат",
+    "price": 8.70,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957P3dcjFH7c6JhIGfg_LmPenum3sI18l4jeHVu97w3gDn-UE5NWrydYPGIVU4N1DR_FjswevmhJe5tZjPz3Y36SB0sXzD30vgiyVZyYo/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "mp9",
+    "float": 0.25,
+    "stattrak": false
+  },
+  {
+    "id": 40,
+    "name": "MP9 | Гидра",
+    "price": 13.40,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAR17P7YKAJK9diklb-GkvP9JraflDIH7JEni-vEp9X2igzt-kNvYGuicNLHcAdtN1DQ_QS6xu-8gMTt6IOJlyUWK4u21g/360fx360f",
+    "rarity": "Restricted",
+    "type": "mp9",
+    "float": 0.12,
+    "stattrak": true
+  },
+  {
+    "id": 41,
+    "name": "SCAR-20 | Кардио",
+    "price": 15.20,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PDdTi5B7c7kxL-CmePxIa3UmH9Y58tOhuDG_Zi7jAfn_0U6amz1INTDcQVvZlnS_lW5xOvog8O9uJzNnyNluSgnt3jVygv330-CoHQ3MA/360fx360f",
+    "rarity": "Classified",
+    "type": "scar20",
+    "float": 0.08,
+    "stattrak": false
+  },
+  {
+    "id": 42,
+    "name": "SCAR-20 | Гроза",
+    "price": 9.80,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi5W4867kpKEmePLP7LWnn8fuJR0iLzA8Iim3Abn8xY6YD36cYfDJwNtNAyB-VS2k7u81J64tcidzWwj5HdhHrhXIQ/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "scar20",
+    "float": 0.28,
+    "stattrak": true
+  },
+  {
+    "id": 43,
+    "name": "M4A4 | Император",
+    "price": 65.90,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW09m7hIWZmOXLP7LWnn8f6pB00rCRrYini1fnrxBkaz_6IY7AJgY7ZlDT_lG_yLvs0Ze-75uYwGwj5Hd7iHZVTA/360fx360f",
+    "rarity": "Covert",
+    "type": "m4a4",
+    "float": 0.01,
+    "stattrak": false
+  },
+  {
+    "id": 44,
+    "name": "M4A4 | Король драконов",
+    "price": 52.40,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW0924l4WYg-X1P4Tdn2xZ_Isg2bGV8NSsjQTirkVpa2H0I9KTIVNraVnT81W_yb3rjcO9vs-dnXVlpGB8sk3xsBD4/360fx360f",
+    "rarity": "Classified",
+    "type": "m4a4",
+    "float": 0.04,
+    "stattrak": true
+  },
+  {
+    "id": 45,
+    "name": "FAMAS | Защитный каркас",
+    "price": 18.70,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JhoGHm-7LP7LWnn8f6p0k3ruUpo6g2AKw-EJoMm_6JYaTdAE_aVyD-Fntl-rtjJbp6Zmdymwj5HdUky5Anw/360fx360f",
+    "rarity": "Restricted",
+    "type": "famas",
+    "float": 0.14,
+    "stattrak": false
+  },
+  {
+    "id": 46,
+    "name": "FAMAS | Механо-пушка",
+    "price": 14.20,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf1OD3dzxP7c-JmYWIn_bLPr7Vn35cppUjjuuU8dSk3lDirUdrYGund9WWIFI-N1uE-VnoyO6918K_78uYynB9-n51IVd8Vjc/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "famas",
+    "float": 0.23,
+    "stattrak": true
+  },
+  {
+    "id": 47,
+    "name": "M4A1-S | Механо-пушка",
+    "price": 32.75,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alDLbUlWNQ18x_jvzS4Z78jUeLphY4OiyuOoDBcQI9Z13Ur1i-k-_ogJa1u8mfn3sxuyQh5XfZmhzlgRxPbOw7g_CACQLJK2Vmcs0/360fx360f",
+    "rarity": "Restricted",
+    "type": "m4a1",
+    "float": 0.08,
+    "stattrak": true
+  },
+  {
+    "id": 48,
+    "name": "M4A1-S | Золотая спираль",
+    "price": 78.20,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITCmGpa7cd4nuz-8oP5jGu5rhc1JjTtdoWSeg85MliB_1Lrwei6jJG_6pXPzyE37CAktnuOnR3kh05MaORmguveFwuVS_OSUQ/360fx360f",
+    "rarity": "Covert",
+    "type": "m4a1",
+    "float": 0.02,
+    "stattrak": false
+  },
+  {
+    "id": 49,
+    "name": "SSG 08 | Кровь в воде",
+    "price": 21.30,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3YjVD_teJmImMn-O6Y7qBkjIIucYpiLzCpNjw3Vfm-UU9Nz-icdPEewY4Nw7X8lm4kr-614j84sojlk7Ong/360fx360f",
+    "rarity": "Covert",
+    "type": "ssg08",
+    "float": 0.07,
+    "stattrak": false
+  },
+  {
+    "id": 50,
+    "name": "SSG 08 | Мёртвые головы",
+    "price": 15.90,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJkIWKg__nO77QklRc7cF4n-SPrdih2wfmrxU4ZzuhI9eSJANqNw3U-1Pvxe291MC6u5zKznUw7Cdz4GGdwUKvwte-Ew/360fx360f",
+    "rarity": "Restricted",
+    "type": "ssg08",
+    "float": 0.17,
+    "stattrak": true
+  },
+  {
+    "id": 51,
+    "name": "AUG | Крылья",
+    "price": 26.40,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957PXNcClK6c6lq4GekMj4OrzZgiUGsZwi0uqV9NWh2VG1rRdpa22iIoaRcFRtMlGD8gW9l-nu1J_o7Z-a1zI97V_yTJJL/360fx360f",
+    "rarity": "Classified",
+    "type": "aug",
+    "float": 0.05,
+    "stattrak": false
+  },
+  {
+    "id": 52,
+    "name": "AUG | Хрюшка",
+    "price": 19.80,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFABz7P_BfS1L6-O3gYe0n_L1JaKfxjJU6cQi0uyYpdul0FGwrUM-YWjxLIKQdlM5NVGD_ATqwuq-jJS_uIOJlyUArO69xQ/360fx360f",
+    "rarity": "Restricted",
+    "type": "aug",
+    "float": 0.13,
+    "stattrak": true
+  },
+  {
+    "id": 53,
+    "name": "AWP | Градиент",
+    "price": 1300.50,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZh7PLfYQJE7dizq4yCkP_gfezXxj0IvJBy2rrH9NSh2VXs80VsYWGnd9SWcAFoaFCEqVa7wu3oh5Gi_MOeScxOzqI/360fx360f",
+    "rarity": "Covert",
+    "type": "awp",
+    "float": 0.03,
+    "stattrak": false
+  },
+  {
+    "id": 54,
+    "name": "AWP | Пиксельный камуфляж «Розовый»",
+    "price": 42.50,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957PfMYTxW08y_mou0m_7zO6-flTkI7Z0m3r7E8Yms2lG2-xU9N277JYOXewA-YwrWqVa4xurvjZC9v4OJlyXuvXkxHg/360fx360f",
+    "rarity": "Classified",
+    "type": "awp",
+    "float": 0.06,
+    "stattrak": true
+  },
+  {
+    "id": 55,
+    "name": "AWP | Красная линия",
+    "price": 68.90,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJB496klb-GkvP9Jrafxj0Iu5wh3r6V8I2i2QK3-0JlNW_0IYbAcQ5qN1-Dr1i-we27hJW_7oOJlyW4ZaUDog/360fx360f",
+    "rarity": "Restricted",
+    "type": "awp",
+    "float": 0.09,
+    "stattrak": false
+  },
+  {
+    "id": 56,
+    "name": "Zeus x27 | Олимп",
+    "price": 5.20,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpooru2LhVfyfbdYgJW5Mm4kIWZqPD7N4Tck29Y_cg_ib2Y8dWg0FHh_Bc6Yjqgd4CdcFA9aQ7U-FG2xL3m157qup7Amnsyuz5iuyhTEpjqoQ/360fx360f",
+    "rarity": "Mil-Spec",
+    "type": "zeus",
+    "float": 0.30,
+    "stattrak": false
+  },
+  {
+    "id": 57,
+    "name": "Нож | Складной | Ультрафиолет",
+    "price": 560.00,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJR4-OmgZKbm_LLP7LWnn8fscN0jOrF8d-sjVDt-xY-Y2CgIIeccgY-MluC-AC9kOy70J_otZXPwWwj5HcIM-0F-A/360fx360f",
+    "rarity": "Covert",
+    "type": "knife",
+    "float": 0.01,
+    "stattrak": false
+  },
+  {
+    "id": 58,
+    "name": "Нож | Боуи | Зуб тигра",
+    "price": 280.50,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrXugmJW7ddOhfvA-4vwt1i9rBsofT_zINfBIFA9aAmB_lC7kLjqhsW9vJvIwXFk6CMms3iMzBG2gBxEPbdxxavJIBH8398/360fx360f",
+    "rarity": "Covert",
+    "type": "knife",
+    "float": 0.06,
+    "stattrak": false
+  },
+  {
+    "id": 59,
+    "name": "Перчатки | Водительские | Королевский змей",
+    "price": 320.00,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_9K3n4WYnP76DKzZn39U18h0juDU-MKs3A2x-0ZuZmD1ddXHJwFtNArS_gfvxebp1MK9vJnKmHVivHUrtH_fgVXp1mTq6wSw/360fx360f",
+    "rarity": "Covert",
+    "type": "gloves",
+    "float": 0.18,
+    "stattrak": false
+  },
+  {
+    "id": 60,
+    "name": "Перчатки | Обмотки | ОСТОРОЖНО!",
+    "price": 275.00,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fpyi_zV_IP7t1mxrxopPnegdobDegU8ZFCE_VG3wuy605C6v5nNyCBj6HZ04i2Lnkaw0x1IOLQ9m7XAHk1G_2IP/360fx360f",
+    "rarity": "Covert",
+    "type": "gloves",
+    "float": 0.12,
+    "stattrak": false
+  },
+  {
+    "id": 61,
+    "name": "Перчатки | Спортивные | Окисление бронзы",
+    "price": 195.00,
+    "image": "https://community.fastly.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmm4mYmPnLNanekVRD7cFOjfvE8ILKhVGwogYxfT36cIGSdgE_ZQnZ-wW7wr28jZW96prBwHE1vShw5HeJnxDjiEtPZ-BxxavJpsojTz0/360fx360f",
+    "rarity": "Classified",
+    "type": "gloves",
+    "float": 0.21,
+    "stattrak": false
+  }
+]
